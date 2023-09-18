@@ -1,0 +1,9 @@
+pandas==1.5.3
+scikit_learn==1.2.2
+jupyter_client==8.0.3
+jupyter_core==5.2.0
+ipykernel==6.21.2
+tensorflow==2.13.0
+numpy==1.23.5
+keras==2.13.1
+
